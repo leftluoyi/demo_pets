@@ -1,1 +1,6 @@
-{"pets" : [{"id": 1, "name": "pj", "birthday": "1969-07-20", "breed": "dog", "subbreed": "coggy", "avatar": ""}]}
+{"pets" : 
+ [
+   {"id": 1, "name": "pj", "birthday": "2009-07-20", "breed": "dog", "subbreed": "coggy", "avatar": ""},
+   {"id": 2, "name": "gabe", "birthday": "2012-02-12", "breed": "dog", "subbreed": "coggy", "avatar": ""}
+ 
+ ]}
