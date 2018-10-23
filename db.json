@@ -1,6 +1,6 @@
 {"pets" : 
  [
-   {"id": 1, "name": "pj", gender:"male", "birthday": "2009-07-20", "breed": "dog", "subbreed": "coggy", "avatar": "https://img5.duitang.com/uploads/item/201509/20/20150920000641_HNEPa.jpeg"},
-   {"id": 2, "name": "gabe", gender:"female", "birthday": "2012-02-12", "breed": "dog", "subbreed": "coggy", "avatar": "http://img2.cache.netease.com/cnews/2015/6/24/20150624173544f7aa0.jpg"}
+   {"id": 1, "name": "pj", "gender":"male", "birthday": "2009-07-20", "breed": "dog", "subbreed": "coggy", "avatar": "https://img5.duitang.com/uploads/item/201509/20/20150920000641_HNEPa.jpeg"},
+   {"id": 2, "name": "gabe", "gender":"female", "birthday": "2012-02-12", "breed": "dog", "subbreed": "coggy", "avatar": "http://img2.cache.netease.com/cnews/2015/6/24/20150624173544f7aa0.jpg"}
  
  ]}
