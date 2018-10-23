@@ -1,10 +1,3 @@
 [
-{id: 1, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'},
-{id: 2, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'},
-{id: 3, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'},
-{id: 4, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'},
-{id: 5, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'}
-{id: 6, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'},
-{id: 7, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggy'},
-{id: 8, name: 'pj', birthday: '', breed: 'dog', subbreed: 'coggg'}
+{"id": 1, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"},{"id": 2, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"},{"id": 3, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"},{"id": 4, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"},{"id": 5, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"},{"id": 6, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"},{"id": 7, "name": "pj", "birthday": "", "breed": "dog", "subbreed": "coggy"}
 ]
