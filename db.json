@@ -1,1 +1,1 @@
-[{"id": 1, "name": "pj", "birthday": "1969-07-20", "breed": "dog", "subbreed": "coggy", "avatar": ""}]
+{"pets" : [{"id": 1, "name": "pj", "birthday": "1969-07-20", "breed": "dog", "subbreed": "coggy", "avatar": ""}]}
